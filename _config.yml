@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lee HanJune"
+title                    : "2HANJ Blog"
 title_separator          : "-"
 name                     : "Lee HanJune"
 description              : "2HANJ Blog"
@@ -113,7 +113,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/2HANJ"
+  github           : "2HANJ"
   gitlab           :
   google_plus      :
   keybase          :
