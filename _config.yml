@@ -15,9 +15,9 @@ remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "ko-KR"
 title                    : "2HANJ Blog"
-title_separator          : "-"
+title_separator          : "다채로운 일상"
 name                     : "Lee HanJune"
 description              : "2HANJ Blog"
 url                      : "https://2hanj.github.io"
@@ -103,7 +103,7 @@ author:
   name             : "Lee HanJune"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Software Engineer"
-  location         : "Somewhere"
+  location         : "Korea"
   email            : "dldudahr12@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
@@ -117,7 +117,7 @@ author:
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        :"https://www.instagram.com/2_hanj"
   lastfm           :
   linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
