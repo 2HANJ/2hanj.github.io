@@ -1,16 +1,27 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# `jekyll serve`. If you change this file, please restart the server process.
+
+# Theme Settings
+#
+# Review documentation to determine if you should use `theme` or `remote_theme`
+# https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "2HANJ Blog"
-title_separator          : "다채로운 일상"
+title_separator          : "-"
 name                     : "Lee HanJune"
 description              : "2HANJ Blog"
 url                      : "https://2hanj.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : ""# the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
@@ -90,9 +101,9 @@ analytics:
 # Site Author
 author:
   name             : "Lee HanJune"
-  avatar           : "/assets/images/leehanjune.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Software Engineer"
-  location         : "Korea"
+  location         : "Somewhere"
   email            : "dldudahr12@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
@@ -119,51 +130,6 @@ author:
   weibo            :
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
-
-owner:
-  name: ifeanyi
-  avatar: leonids-logo.png
-  job: "web operations engineer & Creative"
-  #bio: "Cave logs of a neanderthal as he journeys through the 21st century automating systems. In love with anatomical arts as well as surfing"
-  bio: "Cave logs of a neanderthal as he journeys through the 21st century Automating Systems. In love with Anatomical Art | Neurosciencies about learning | Design and Data."
-  #bio: "A simple and awesome blog theme powered by jekyll."
-  email: dennis@ifeanyi.io
-  disqus-shortname:
-  twitter: if3anyi
-  facebook: #username
-  google:
-    plus: #username
-    analytics: UA-86475733-1
-    verify:
-    ad-client:
-    ad-slot:
-  bing-verify:
-  github: if3anyi
-  gitlab: #username
-  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  stackoverflow: "http://stackoverflow.com/users/4458915/ifeanyi"
-
-
-  linkedin: #username
-  skype: #username
-  xing: #username
-  instagram: if3anyi
-  lastfm: #username
-  tumblr: #username
-  pinterest: #username
-  foursquare: #username
-  steam: #username
-  dribbble: #username
-  youtube: #username
-  soundcloud: #username
-  weibo: #username
-  flickr: #username
-  500px: #username
-  codepen: #username
-
-  gems:
-    - jekyll-seo-tag
-    - jekyll-sitemap
 
 
 # Reading Files
